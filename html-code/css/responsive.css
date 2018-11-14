@@ -1,0 +1,8 @@
+﻿@media screen and (max-width: 768px) {
+	#content-wrapper {
+		flex-direction: column;
+	}
+	#left-sidebar, #right-sidebar, #main-content {
+		width: 100%;
+	}
+}
